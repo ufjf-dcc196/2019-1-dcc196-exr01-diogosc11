@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio01</string>
+    <string name="nome_usuario">TextView</string>
+    <string name="nome_usuario2">Escreva seu nome</string>
+    <string name="sobrenome_usuario">Escreva seu sobrenome</string>
+    <string name="escrever">ESCREVER</string>
+</resources>
